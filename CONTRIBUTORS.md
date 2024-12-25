@@ -1,3 +1,3 @@
-MeryemKarroum (Meryem Karroum)
-MziouedDounia (Mzioued Dounia)
-MONCEF52341 (Mostaine Moncef)
+- MeryemKarroum (Meryem Karroum) - [GitHub](https://github.com/MeryemKarroum) - Chef de projet
+- MziouedDounia (Mzioued Dounia) - [GitHub](https://github.com/MziouedDounia) - Dev Full stack
+- MONCEF52341 (Mostaine Moncef) - [GitHub](https://github.com/MONCEF52341) - Cloud Lead
